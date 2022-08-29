@@ -2,3 +2,17 @@ p {
     text-align: center;
     background: #CCCCCC;
 }
+
+h1{
+    color: white;
+}
+
+p{ 
+    text-align: center;
+    color: white;
+}
+
+#lema{ 
+    font-size: 25px;
+    color: black;
+}
