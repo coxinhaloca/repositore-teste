@@ -16,3 +16,11 @@ p {
     font-size: 25px;
     color: black;
 }
+
+.beneficios {
+   background-color: rgb(47, 143, 226);
+} 
+
+h2{
+     text-align: center;
+}
