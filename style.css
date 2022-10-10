@@ -1,12 +1,16 @@
+'
+
 p {
     text-align: center;
-    background: #CCCCCC;
+    background: #CCCCCC; br
 }
 
 h1 {
     color:aliceblue white;
 }
 
+<body> 
+ 
 p { 
     text-align: center;
     color: white;
@@ -34,5 +38,3 @@ h2{
 #imagemb { 
     
      width:50%
-}
-
