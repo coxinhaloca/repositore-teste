@@ -1,12 +1,13 @@
 header {
     background: rgb(0, 0, 0);
 }
-    #logo {
-         width:320px ;
-    }
+
      h1{ 
          display: inline;
      }
+ #logo {
+        width:320px ;
+   }
     
 nav  {
      display: block;
@@ -15,3 +16,4 @@ nav  {
   nav li {
     display: inline;
    }
+   
