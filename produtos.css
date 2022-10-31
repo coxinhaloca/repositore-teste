@@ -1,10 +1,17 @@
 header {
     background: rgba(17, 5, 5, 0.959);
 }
-    #logo{
+    #logo {
          width:320px ;
-         display:inline;
     }
-nav li{ 
+     h1{ 
+         display: inline;
+     }
+    
+nav  {
+     display: block;
+} 
+
+  nav li {
     display: inline;
-}
+   }
