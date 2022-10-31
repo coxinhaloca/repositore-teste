@@ -10,7 +10,7 @@ header {
    }
     
 nav  {
-     display: block;
+     display: inline-block;
 } 
 
   nav li {
