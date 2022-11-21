@@ -34,4 +34,11 @@ nav  {
         text-decoration: none;
      }
 
+.produtos li {
+     display:  inline-block;
+}
+
+item{
+     width: 350px;
+}
 .
