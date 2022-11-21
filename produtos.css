@@ -34,10 +34,15 @@ nav  {
         text-decoration: none;
      }
 
+.produtos{
+     margin: 0 auto;
+}
+
 .produtos li {
      display:  inline-block;
 }
 
 .item{
      width: 350px;
+     height: 250px;
 }
