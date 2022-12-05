@@ -49,3 +49,7 @@ nav  {
      width: 350px;
      height: 250px;
 }
+.produtos li h2 {
+     font-size: 30px ;
+     font-weight: bold;
+}
